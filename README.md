@@ -8,6 +8,7 @@
 <details>
 <summary>🇬🇧 English version</summary>
 ------------------------------------------------------------------------
+    
 💰 Support the Project
 
 You can support the development of this project by sending any amount:
@@ -119,13 +120,16 @@ You can support the development of this project by sending any amount:
 
 <details>
 <summary>🇷🇺 Русская версия</summary>
-### 💰 Поддержать автора проекта
+------------------------------------------------------------------------
+    
+💰 Поддержать автора проекта
 
 Вы можете поддержать развитие проекта, отправив любую сумму:
 
 - **TON (TON Network):** `UQDRUGLbQjGupO-LDX_MFrhY_ZjYydY1mRCJ_V5MvkTIggix`  
 - **USDT (TRC20):** `TJ5EeABDNGRCRMfBRK5YxrqPt5AJywA24P`
 
+------------------------------------------------------------------------
 
 # ⭐️ Инструкция: Покупка звёзд на Fragment.com
 
