@@ -1,3 +1,10 @@
+📘 Документация / Documentation
+
+⚡️ Данный гайд доступен на двух языках / This guide is available in two languages. : 
+- 🇷🇺 Русский — для русскоязычных пользователей
+- 🇬🇧 English — for international users
+
+------------------------------------------------------------------------
 💰 Support the Project
 
 You can support the development of this project by sending any amount:
