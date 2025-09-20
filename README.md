@@ -7,7 +7,6 @@
 - 🇬🇧 English — for international users
 <details>
 <summary>🇬🇧 English version</summary>
--------------------------------------------------------------------------
     
 💰 Support the Project
 
@@ -120,7 +119,6 @@ You can support the development of this project by sending any amount:
 
 <details>
 <summary>🇷🇺 Русская версия</summary>
-------------------------------------------------------------------------
     
 💰 Поддержать автора проекта
 
