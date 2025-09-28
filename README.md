@@ -1,4 +1,4 @@
-### 💰 Поддержать проект
+### 💰 Поддержать проект / Support the Project 
 
 [![TON](https://img.shields.io/badge/TON-blue?logo=ton)](t.me/send?start=IV9uyBHAic9U)
 [![USDT](https://img.shields.io/badge/USDT-green?logo=tether)](t.me/send?start=IVN8AiqrfDoQ)
