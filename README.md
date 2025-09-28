@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/BTC-orange?logo=bitcoin&style=for-the-badge" height="40"/>
 </a>
 
-#📘 Документация / Documentation
+### 📘 Документация / Documentation
 
 
 ⚡️ Данный гайд доступен на двух языках / This guide is available in two languages.: 
