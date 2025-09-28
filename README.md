@@ -1,9 +1,9 @@
 ### 💰 Поддержать проект / Support the Project 
 
-[![TON](https://img.shields.io/badge/TON-blue?logo=ton&style=for-the-badge)](https://t.me/send?start=IV9uyBHAic9U)
-[![USDT](https://img.shields.io/badge/USDT-green?logo=tether&style=for-the-badge)](https://t.me/send?start=IVN8AiqrfDoQ)
-[![ETH](https://img.shields.io/badge/ETH-gray?logo=ethereum&style=for-the-badge)](https://t.me/send?start=IV9uyBHAic9U)
-[![BTC](https://img.shields.io/badge/BTC-orange?logo=bitcoin&style=for-the-badge)](https://t.me/send?start=IV9uyBHAic9U)
+[![TON](https://img.shields.io/badge/   TON   -blue?logo=ton&style=for-the-badge)](https://t.me/send?start=IV9uyBHAic9U)
+[![USDT](https://img.shields.io/badge/   USDT   -green?logo=tether&style=for-the-badge)](https://t.me/send?start=IVN8AiqrfDoQ)
+[![ETH](https://img.shields.io/badge/   ETH   -gray?logo=ethereum&style=for-the-badge)](https://t.me/send?start=IV9uyBHAic9U)
+[![BTC](https://img.shields.io/badge/   BTC   -orange?logo=bitcoin&style=for-the-badge)](https://t.me/send?start=IV9uyBHAic9U)
 
 
 #📘 Документация / Documentation
