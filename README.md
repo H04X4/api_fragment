@@ -1,9 +1,9 @@
 ### 💰 Поддержать проект
 
-[![TON](https://img.shields.io/badge/TON-blue?logo=ton)](ton://transfer/UQDRUGLbQjGupO-LDX_MFrhY_ZjYydY1mRCJ_V5MvkTIggix)
-[![USDT](https://img.shields.io/badge/USDT-green?logo=tether)](https://tronscan.org/#/address/TJ5EeABDNGRCRMfBRK5YxrqPt5AJywA24P)
+[![TON](https://img.shields.io/badge/TON-blue?logo=ton)](t.me/send?start=IV9uyBHAic9U)
+[![USDT](https://img.shields.io/badge/USDT-green?logo=tether)](t.me/send?start=IVN8AiqrfDoQ)
 [![ETH](https://img.shields.io/badge/ETH-gray?logo=ethereum)](ethereum:0xВАШ_ETH_АДРЕС)
-[![BTC](https://img.shields.io/badge/BTC-orange?logo=bitcoin)](bitcoin:ВАШ_BTC_АДРЕС)
+[![BTC](https://img.shields.io/badge/BTC-orange?logo=bitcoin)](t.me/send?start=IV9uyBHAic9U)
 
 
 #📘 Документация / Documentation
@@ -16,13 +16,6 @@
   
 <details>
 <summary>🇬🇧 English version</summary>
-    
-💰 Support the Project
-
-You can support the development of this project by sending any amount:
-
--   TON (TON Network): UQDRUGLbQjGupO-LDX_MFrhY_ZjYydY1mRCJ_V5MvkTIggix
--   USDT (TRC20): TJ5EeABDNGRCRMfBRK5YxrqPt5AJywA24P
 
 ------------------------------------------------------------------------
 
@@ -116,25 +109,11 @@ Step 3: Get Cookie Data
 
 ------------------------------------------------------------------------
 
-💰 Support the Project
-
-You can support the development of this project by sending any amount:
-
--   TON (TON Network): UQDRUGLbQjGupO-LDX_MFrhY_ZjYydY1mRCJ_V5MvkTIggix
--   USDT (TRC20): TJ5EeABDNGRCRMfBRK5YxrqPt5AJywA24P
-
 ------------------------------------------------------------------------
 </details>
 
 <details>
 <summary>🇷🇺 Русская версия</summary>
-    
-💰 Поддержать автора проекта
-
-Вы можете поддержать развитие проекта, отправив любую сумму:
-
-- **TON (TON Network):** `UQDRUGLbQjGupO-LDX_MFrhY_ZjYydY1mRCJ_V5MvkTIggix`  
-- **USDT (TRC20):** `TJ5EeABDNGRCRMfBRK5YxrqPt5AJywA24P`
 
 ------------------------------------------------------------------------
 
@@ -222,12 +201,6 @@ API_TON = "https://tonconsole.com" Получить токен с tonconsole
 ```
 
 ------------------------------------------------------------------------
-### 💰 Поддержать автора проекта
-
-Вы можете поддержать развитие проекта, отправив любую сумму:
-
-- **TON (TON Network):** `UQDRUGLbQjGupO-LDX_MFrhY_ZjYydY1mRCJ_V5MvkTIggix`  
-- **USDT (TRC20):** `TJ5EeABDNGRCRMfBRK5YxrqPt5AJywA24P`
 
 ------------------------------------------------------------------------
 </details>
