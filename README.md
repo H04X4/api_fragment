@@ -1,4 +1,12 @@
-# 📘 Документация / Documentation
+### 💰 Поддержать проект
+
+[![TON](https://img.shields.io/badge/TON-blue?logo=ton)](ton://transfer/UQDRUGLbQjGupO-LDX_MFrhY_ZjYydY1mRCJ_V5MvkTIggix)
+[![USDT](https://img.shields.io/badge/USDT-green?logo=tether)](https://tronscan.org/#/address/TJ5EeABDNGRCRMfBRK5YxrqPt5AJywA24P)
+[![ETH](https://img.shields.io/badge/ETH-gray?logo=ethereum)](ethereum:0xВАШ_ETH_АДРЕС)
+[![BTC](https://img.shields.io/badge/BTC-orange?logo=bitcoin)](bitcoin:ВАШ_BTC_АДРЕС)
+
+
+#📘 Документация / Documentation
 
 
 ⚡️ Данный гайд доступен на двух языках / This guide is available in two languages.: 
